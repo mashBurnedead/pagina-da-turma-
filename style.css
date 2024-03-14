@@ -2,7 +2,7 @@
     padding: 0;}
    
     header{
-        background-color: rgb(186, 44, 215);
+        background-color: #2cc3d7;
         color: white;
         display: flex;
         justify-content: space-around;
@@ -10,4 +10,7 @@
    
     }
 
-.cabecalho-lista-item{}
+.cabecalho-lista-item{
+display: inline-block;
+margin: o 20px;
+page: 10px 0;
