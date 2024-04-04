@@ -33,4 +33,6 @@
 
 .escola-conteudo{
     width: 50%;
+    align-items: center;
+    padding: 24px 0;
 }
