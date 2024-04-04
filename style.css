@@ -21,10 +21,11 @@
     width: 30%;
 }
 .escola{
-
-    background-image: linear-gradient(rgb(218, 252, 250),rgb(116, 233, 235));  
+    background-image: linear-gradient(rgb(105, 76, 233),rgb(123, 165, 255));  
     color: white;
     display: flex;
+    justify-content: center;
+
 }
 
 .texto-escola{font-size: 20px;}
