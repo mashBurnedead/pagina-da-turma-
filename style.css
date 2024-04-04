@@ -2,7 +2,7 @@
     padding: 0;}
    
     header{
-        background-color: rgb(15, 255, 243);
+        background-color: rgb(32, 59, 216);
         color: white;
         display: flex;
         justify-content: space-around;
@@ -21,7 +21,7 @@
     width: 30%;
 }
 .escola{
-    background-image: linear-gradient(rgb(105, 76, 233),rgb(123, 165, 255));  
+    background-image: linear-gradient(rgb(69, 40, 197),rgb(57, 99, 236));  
     color: white;
     display: flex;
     justify-content: center;
